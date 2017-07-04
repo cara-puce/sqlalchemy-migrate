@@ -3,6 +3,7 @@
    implementations.
 """
 __all__ = [
+    'cockroach',
     'postgres',
     'sqlite',
     'mysql',
