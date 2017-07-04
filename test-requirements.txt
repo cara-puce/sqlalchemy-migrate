@@ -4,6 +4,8 @@ pyflakes==0.8.1
 flake8>=2.2.4,<=2.4.1
 hacking>=0.10.0,<0.11
 
+
+git+https://github.com/bdarnell/cockroachdb-python@get-foreign-keys#egg=cockroachdb
 coverage>=3.6
 discover
 feedparser
